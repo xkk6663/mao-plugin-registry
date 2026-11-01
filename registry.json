@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "repo": "xkk6663/mao-plugin-feiyu",
+      "id": "feiyu",
+      "name": "大肥鱼",
+      "category": "agent",
+      "author": "xkk6663",
+      "note": "桌宠对接云端 AstrBot persona：多模态对话 / 每日翻唱 / 跨设备传输 / Live2D 形象（含后端模块，装完需重启）"
+    }
+  ]
+}
